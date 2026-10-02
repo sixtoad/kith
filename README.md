@@ -12,3 +12,7 @@ Self-hosted personal knowledge graph over your correspondence — email first, t
 - **People & organisations:** profile pages, timelines, amounts and commitments
 - **Graph explorer / timeline**
 - **Multi-tenant, self-hosted, local-model friendly** (OpenAI-compatible endpoints, OIDC login)
+
+## License
+
+[AGPL-3.0](LICENSE)
