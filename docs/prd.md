@@ -12,7 +12,7 @@ license: AGPL-3.0
 
 ## 0. Document Purpose
 
-This PRD defines what Kith must do. It is the input for UX design, architecture and epics. It describes capabilities, not implementation: technology choices, the competitive landscape and pilot evidence live in [[addendum]]. Terms in §3 Glossary are used exactly as defined throughout. Inferred requirements carry inline `[ASSUMPTION]` tags, indexed in §10; §9 lists open questions. Requirement IDs are stable, not sequential: later additions (FR-43–45, NFR-11–12) sit in the section they belong to.
+This PRD defines what Kith must do. It is the input for UX design, architecture and epics. It describes capabilities, not implementation: technology choices, the competitive landscape and pilot evidence live in [prd-addendum.md](prd-addendum.md). Terms in §3 Glossary are used exactly as defined throughout. Inferred requirements carry inline `[ASSUMPTION]` tags, indexed in §10; §9 lists open questions. Requirement IDs are stable, not sequential: later additions (FR-43–45, NFR-11–12) sit in the section they belong to.
 
 Inputs it builds on:
 
