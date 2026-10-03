@@ -1,6 +1,6 @@
 # Kith PRD — Addendum
 
-Supporting depth that informs [[prd]] but does not belong in its main narrative.
+Supporting depth that informs the [PRD](prd.md) but does not belong in its main narrative.
 
 ## A1. Competitive landscape (research digest, 2026-10-02)
 
